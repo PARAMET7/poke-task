@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "1",
+    "firstName": "Shield",
+    "lastName": "Sword",
+    "languages": ["Pokemonit"],
+    "program": "forest",
+
+    "image": "https://freepngimg.com/thumb/pokemon/104786-and-pokemon-shield-sword-free-hq-image.png",
+    "cohort": "Ash",
+    "projects": []
+  },
+  {
+    "_id": "2",
+    "firstName": "Pikachu",
+    "lastName": "Transparent",
+
+    "languages": ["Pokemonit"],
+    "program": "electric",
+
+    "image": "https://freepngimg.com/thumb/pokemon/6-2-pokemon-png-hd.png",
+    "cohort": "Ash",
+    "projects": []
+  },
+  {
+    "_id": "3",
+    "firstName": "imposter",
+    "lastName": "Transparent",
+
+
+    "linkedinUrl": "https://linkedin.com/in/jackjohnsonexample",
+    "languages": ["Pokemonit"],
+    "program": "forest",
+
+    "image": "https://freepngimg.com/thumb/pokemon/8-2-pokemon-free-png-image.png",
+    "cohort": "Ash",
+    "projects": []
+  },
+  {
+    "_id": "5",
+    "firstName": "Ditto",
+    "lastName": "King",
+
+    "linkedinUrl": "https://linkedin.com/in/katiekingexample",
+    "languages": ["English", "German"],
+    "program": "leafgreen",
+
+    "image": "https://freepngimg.com/thumb/pokemon/11-2-pokemon-png.png",
+    "cohort": "Ash",
+    "projects": []
+  },
+  {
+    "_id": "4",
+    "firstName": "crystal",
+    "lastName": "emerald",
+
+    "linkedinUrl": "https://linkedin.com/in/lauralopezexample",
+    "languages": ["English"],
+    "program": "forest",
+
+    "image": "https://freepngimg.com/thumb/pokemon/10-2-pokemon-picture.png",
+    "cohort": "Ash",
+    "projects": []
+  },
+  {
+    "_id": "6",
+    "firstName": "platinum",
+    "lastName": "Iverson",
+
+    "linkedinUrl": "https://linkedin.com/in/ianiversonexample",
+    "languages": ["English"],
+    "program": "leafgreen",
+    "image": "https://freepngimg.com/thumb/pokemon/12-2-pokemon-free-download-png.png",
+    "cohort": "Ash",
+    "projects": []
+  }
+]
